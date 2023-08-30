@@ -10,7 +10,7 @@ namespace Grid_Exercise
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new GridPage();
         }
 
         protected override void OnStart()
